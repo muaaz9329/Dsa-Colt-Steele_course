@@ -1,8 +1,8 @@
 # Dsa-Colt-Steele_course
 
-###Started Date :28 june , 2023\n
-###Completed Date : 
-###Course Link : https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
+Started Date :28 june , 2023
+
+ 
   
 
     This course crams months of computer science and interview prep material into 20 hours of video. The content is based directly on last semester of my in-person coding bootcamps, where my students go on to land 6-figure developer jobs. I cover the exact same computer science content that has helped my students ace interviews at huge companies like Google, Tesla, Amazon, and Facebook. Nothing is watered down for an online audience; this is the real deal :)   We start with the basics and then eventually cover “advanced topics” that similar courses shy away from like Heaps, Graphs, and Dijkstra’s Shortest Path Algorithm. 
@@ -37,3 +37,4 @@
         Anyone preparing for programming interviews
         Anyone interested in improving their problem solving skills
         Anyone looking to become a better developer!
+Course Link : https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
